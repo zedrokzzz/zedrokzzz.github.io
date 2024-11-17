@@ -17,6 +17,7 @@
           background: #FFD700;
           border: 1px solid #000000;
           padding: 5px;
+          width: 15%;
         }
         .container {
           display: flex;
