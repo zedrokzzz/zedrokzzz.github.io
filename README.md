@@ -35,7 +35,7 @@
         }
         </style>
   </head>
-  <body onload="calculateAge()"   bgcolor="#90EE90" >
+  <body onload="calculateAge()"   bgcolor="#FFFFFF" >
     <img src="фото_паспорт.jpg" width="150" height="200" 
       alt="Иллюстрация" class="photo">
     <h2> <i> <b>Арзамасцева Татьяна </b></i> </h2>
